@@ -11,10 +11,10 @@ dlo:
 
   version: 1.4.2
 
-  adaptiveParams: true
+  adaptiveParams: false
 
-  imu: true
-  gravityAlign: true
+  imu: false
+  gravityAlign: false
 
   odomNode:
     odom_frame: odom

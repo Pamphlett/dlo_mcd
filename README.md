@@ -1,3 +1,16 @@
+# An DLO fork with configurations for MCD VIRAL dataset
+(credits to [the original repo](https://github.com/vectr-ucla/direct_lidar_odometry))
+
+We further made some parameter tuning (please refer to the current `yaml` files for more information) to better adapt to the MCD VIRAL dataset. Many thanks to the [suggestions](https://github.com/vectr-ucla/direct_lidar_odometry/issues/27) from the original authors:) 
+
+Some illustrative results are shown here. 
+
+<br>
+<p align='center'>
+    <img src="./doc/img/DLO.png" alt="drawing" width="350"/>
+    <img src="./doc/img/DLO_optimized.png" alt="drawing" width="350"/>
+</p>
+
 # Direct LiDAR Odometry: <br> Fast Localization with Dense Point Clouds
 
 #### [[IEEE RA-L](https://ieeexplore.ieee.org/document/9681177)] [[ArXiv](https://arxiv.org/abs/2110.00605)] [[Video](https://www.youtube.com/watch?v=APot6QP_wvg)] [[Code](https://github.com/vectr-ucla/direct_lidar_odometry)]
